@@ -1,11 +1,11 @@
 const messages = {
     water:[
          // lvl 0:
-         [ "please, save me!", "in need of water right now!", "i'm not fine!" ],
+         [ "please, save me!", "in need of water right now!", "I'm not doing okay!" ],
          // lvl 1:
         [ "think about me", "need a drink" ],
         // lvl 2:
-        [ "i feel so fine", "i'm like a red fish" ]
+        [ "I feel good", "i'm like a goldfish" ]
     ],
 
     leds:[
@@ -19,6 +19,6 @@ const messages = {
         // lvl 0:
         [ "taking a break", "something wrong" ],
         // lvl 1:
-        [ "full power", "all is fine" ]
+        [ "full power", "everything is good" ]
     ]
 };
