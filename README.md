@@ -12,5 +12,3 @@ https://youtu.be/-sSJpWdttuQ
 
 You can also find a WIP documentation of makers'pot here: http://wikifab.org/wiki/Group:Makers%27_lab  
 or here: https://www.thingiverse.com/makerslab_emlyon/designs
-
-hello world
